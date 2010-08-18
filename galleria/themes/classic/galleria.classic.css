@@ -6,10 +6,10 @@
 .galleria-thumbnails .galleria-image{height:40px;width:60px;/*background:#000;*/margin:0 5px 0 0;float:left;cursor:pointer;}
 .galleria-counter{position:absolute;bottom:10px;left:10px;text-align:right;color:#fff;font:normal 11px/1 "Helvetica Neue", Helvetica, arial,sans-serif;z-index:2;}
 .galleria-loader{/*background:#000;*/width:20px;height:20px;position:absolute;top:10px;right:10px;z-index:2;display:none;background:url(classic-loader.gif) no-repeat 2px 2px;}
-.galleria-info{background: #323232;width:50%;top:460px;left:15px;z-index:2;position:absolute;}
-.galleria-info-text{/*background-color:#000;background-color:rgba(0,0,0,.9);*/padding: 12px;display:none;}
-.galleria-info-title{font:bold 25px/1.1 "Helvetica Neue",Helvetica,arial,sans-serif;margin:0;color:#fff;}
-.galleria-info-description{font:normal 12px/1.4 palatino,georgia,serif;margin:0;color:#bbb;}
+.galleria-info{background: #C2BD8B;width:780px;top:489px;left:10px;z-index:2;position:absolute;}
+.galleria-info-text{background-color:#C2BD8B;padding: 12px;display:none;}
+.galleria-info-title{font:normal 25px/1.1 palatino,georgia,serif;margin:0;color:#323232;display: inline;}
+.galleria-info-description{font:normal 14px/1.4 palatino,georgia,serif;margin:0;color:#323232;float:right; display: inline;}
 .galleria-info-title+.galleria-info-description{margin-top:7px;}
 .galleria-info-close{width:9px;height:9px;position:absolute;top:5px;right:5px;background-position:-753px -11px;opacity:0;cursor:pointer;display:none;}
 .galleria-info-link{background-position:-669px -5px;opacity:.8;position:absolute;width:20px;height:20px;cursor:pointer;background-color: #d7d4b3;}
