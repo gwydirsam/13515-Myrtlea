@@ -81,8 +81,7 @@ a:hover {
 	padding: 0;
 }
 body {
-
-	background-color: #fafae1;
+	background-color: #241E15;
 
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: small;
@@ -98,10 +97,10 @@ div#content {
 	background: #c9c5a4;
 }
 div#header {
-	background-color: #fafae1;
+	background-color: #241E15;
 }
 .headertext {
-	color: #252525;
+	color: #CECAA1;
 	position: relative; top: 14px; right: 1px;
 	text-align: right;
 }
@@ -114,6 +113,7 @@ div#header {
 
 	background: #C2BD8B;
 
+	padding: 10px 0 0 0;
 }
 .TextBox {
 	float: left;
