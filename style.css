@@ -5,15 +5,14 @@ h1 {
 	text-align: left;
 	text-transform: uppercase;
 
-	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+	font-family: Palatino, Time, "Time New Roman", serif;
 	font-size: 450%;
-	font-weight: bold;
 }
 h2 {
 	text-align: left;
 
 	font-family: Palatino, Time, "Time New Roman", serif;
-	font-size: 375%;
+	font-size: 325%;
 
 	margin: 0 0 0 10px;
 }
@@ -57,24 +56,16 @@ table {
 	text-align: right;
 	float: right;
 }
-#Name {
-	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
-	font-size: 350%
-}
-.ContactInfo {
-	font-size: 150%
-}
 a:link,
 a:hover,
 a:focus,
 a:active,
 a:visited {
 	color: #323232;
-	font-weight: bold;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 * {
 	margin: 0;
@@ -101,15 +92,14 @@ div#header {
 }
 .headertext {
 	color: #D7D4B3;
-	position: relative; top: 14px; right: 1px;
-	text-align: right;
+	position: relative; top: 16px; right: 5px;
 }
 .SubHeaderText {
 	display: block;
 	text-align: center;
 
 	font-family: Palatino, Time, "Time New Roman", serif;
-	font-size: 375%;
+	font-size: 225%;
 
 	background: #C2BD8B;
 
