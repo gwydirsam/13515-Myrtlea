@@ -2,7 +2,6 @@
 .galleria-container img{-moz-user-select:none;-webkit-user-select:none;-o-user-select:none;}
 .galleria-stage{position:absolute;top:10px;bottom:60px;left:10px;right:10px;overflow:hidden;}
 .galleria-thumbnails-container{height:50px;bottom:0;position:absolute;left:20px;right:10px;z-index:2;}
-.galleria-carousel .galleria-thumbnails-list{margin-left:30px;margin-right:30px;}
 .galleria-thumbnails .galleria-image{height:40px;width:60px;/*background:#000;*/margin:0 5px 0 0;float:left;cursor:pointer;}
 .galleria-counter{position:absolute;bottom:10px;left:10px;text-align:right;color:#fff;font:normal 11px/1 "Helvetica Neue", Helvetica, arial,sans-serif;z-index:2;}
 .galleria-loader{/*background:#000;*/width:20px;height:20px;position:absolute;top:10px;right:10px;z-index:2;display:none;background:url(classic-loader.gif) no-repeat 2px 2px;}
@@ -28,8 +27,6 @@
 .galleria-thumbnails-container .disabled:hover{opacity:.2;cursor:default;}
 .galleria-thumb-nav-left:hover,
 .galleria-thumb-nav-right:hover{opacity:1;background-color: #d7d4b3;}
-.galleria-carousel .galleria-thumb-nav-left,
-.galleria-carousel .galleria-thumb-nav-right{display:block;}
 .galleria-thumb-nav-left,
 .galleria-thumb-nav-right,
 .galleria-info-link,
